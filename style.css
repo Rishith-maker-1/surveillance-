@@ -1,0 +1,29 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 26px;
+    width: 100%;
+    margin: 0px;
+}
+#startbtn{
+    font-size: 20px;
+}
+#no-of-obj,#status{
+    font-size: 18px;
+}
+.copyright{
+    position: fixed;
+    color:rgb(136, 246, 250);
+    bottom: 0;
+    width: 100%;
+    background-color: dimgrey;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 2px solid rgb(68, 140, 168);
+    border-radius: 15px;
+    margin-top: 140px;
+    box-shadow: 3px 3px 3px whitesmoke;
+}
